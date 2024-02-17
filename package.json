@@ -1,0 +1,16 @@
+{
+  "name": "none",
+  "version": "0.0.1",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MotiCAT",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.4",
+    "fs": "^0.0.1-security"
+  }
+}
